@@ -9,6 +9,14 @@ It is a type of substitution cipher in which each letter in the plaintext is rep
 
 * * *
 
+## installation and download
+```
+copy this ⬇️ and paste it in your Terminal.
+
+git clone https://github.com/moemaair/-Caesar-Cipher.git
+
+```
+
 ## <u>HOW IT WORKS⚙️</u>
 <table class="table">
  <tr>
